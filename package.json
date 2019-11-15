@@ -11,7 +11,7 @@
     "build": "gulp",
     "test": "jest",
     "version": "gulp bump",
-    "start": "node ./server.js"
+    "start": "node ./express.js"
   },
   "main": "dist/next-boilerplate-package.js",
   "license": "MIT",
