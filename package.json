@@ -10,7 +10,8 @@
   "scripts": {
     "build": "gulp",
     "test": "jest",
-    "version": "gulp bump"
+    "version": "gulp bump",
+    "start": "node ./server.js"
   },
   "main": "dist/next-boilerplate-package.js",
   "license": "MIT",
