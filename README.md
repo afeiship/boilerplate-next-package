@@ -3,10 +3,12 @@
 
 ## installation
 ```bash
-npm install -S afeiship/next-boilerplate-package --registry=https://registry.npm.taobao.org
+npm install -S afeiship/next-boilerplate-package
 ```
 
 ## usage
 ```js
+import 'next-boilerplate-package';
+
 //DOCS here!
 ```
