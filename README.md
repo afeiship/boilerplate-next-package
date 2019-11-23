@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm install -S afeiship/next-boilerplate-package
+npm install -S @feizheng/next-boilerplate-package
 ```
 
 ## usage

@@ -1,4 +1,4 @@
-const nx = require('next-js-core2');
+const nx = require('@feizheng/next-js-core2');
 require('../src/next-boilerplate-package');
 
 describe('api.basic test', () => {

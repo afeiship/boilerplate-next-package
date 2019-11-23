@@ -2,6 +2,7 @@
   'use strict';
 
   const gulp = require('gulp');
+  const nx = require('@feizheng/next-js-core2');
   const pkg = require('../package.json');
   const saveLicense = require('uglify-save-license');
   const $ = require('gulp-load-plugins')({
