@@ -9,7 +9,7 @@
     pattern: ['gulp-*', 'gulp.*', 'del']
   });
 
-  require('next-nice-comments');
+  require('@feizheng/next-nice-comments');
 
   const niceComments = nx.niceComments(
     [
