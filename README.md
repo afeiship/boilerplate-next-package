@@ -8,7 +8,7 @@ npm install -S @feizheng/next-boilerplate-package
 
 ## usage
 ```js
-import 'next-boilerplate-package';
+import '@feizheng/next-boilerplate-package';
 
 //DOCS here!
 ```
