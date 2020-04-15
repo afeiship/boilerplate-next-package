@@ -31,11 +31,11 @@
     "jest": "^25.2.3",
     "prettier": "^2.0.2",
     "uglify-save-license": "^0.4.1",
+    "uglify-js": "^3.7.2",
     "yargs": "^15.3.1"
   },
   "dependencies": {
-    "@feizheng/next-js-core2": "^2.4.4",
-    "uglify-js": "^3.7.2"
+    "@feizheng/next-js-core2": "^2.4.4"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
