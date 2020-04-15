@@ -34,7 +34,8 @@
     "yargs": "^15.3.1"
   },
   "dependencies": {
-    "@feizheng/next-js-core2": "^2.4.4"
+    "@feizheng/next-js-core2": "^2.4.4",
+    "uglify-js": "^3.7.2"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
