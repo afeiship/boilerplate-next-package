@@ -3,12 +3,12 @@
 
 ## installation
 ```bash
-npm install -S @feizheng/next-boilerplate-package
+npm install -S @boilerplate-scope/next-boilerplate-package
 ```
 
 ## usage
 ```js
-import '@feizheng/next-boilerplate-package';
+import '@boilerplate-scope/next-boilerplate-package';
 
 //DOCS here!
 ```
