@@ -38,6 +38,6 @@
     "@feizheng/next-js-core2": "^2.5.0"
   },
   "publishConfig": {
-    "registry": "<%= registry %>"
+    "registry": "<%= registry.publish %>"
   }
 }
