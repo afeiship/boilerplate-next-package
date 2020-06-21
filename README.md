@@ -19,7 +19,7 @@ import '@boilerplate-scope/next-boilerplate-package';
 //DOCS here!
 ```
 
-## copyright & license
+## license
 > Code released under [the MIT license](https://github.com/afeiship/next-boilerplate-package/blob/master/LICENSE.txt).
 
 [npm-image]: https://img.shields.io/npm/v/@boilerplate-scope/next-boilerplate-package
