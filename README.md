@@ -30,5 +30,5 @@ Code released under [the MIT license](https://github.com/afeiship/next-boilerpla
 [size-image]: https://img.shields.io/bundlephobia/minzip/@boilerplate-scope/next-boilerplate-package
 [size-url]: https://github.com/afeiship/next-boilerplate-package/blob/master/dist/next-boilerplate-package.min.js
 
-[download-image]: https://img.shields.io/npm/dw/@boilerplate-scope/next-boilerplate-package
+[download-image]: https://img.shields.io/npm/dm/@boilerplate-scope/next-boilerplate-package
 [download-url]: https://www.npmjs.com/package/@boilerplate-scope/next-boilerplate-package
