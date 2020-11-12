@@ -1,5 +1,5 @@
-const nx = require('@feizheng/next-js-core2');
-require('../src/next-boilerplate-package');
+const nx = require('@jswork/next');
+require('../src/index');
 
 describe('api.basic test', () => {
   test('nx.boilerplatePackage', function() {
