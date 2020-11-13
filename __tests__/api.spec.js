@@ -1,5 +1,4 @@
-const nx = require('@jswork/next');
-require('../src/index');
+require('../src');
 
 describe('api.basic test', () => {
   test('nx.boilerplatePackage', function() {
