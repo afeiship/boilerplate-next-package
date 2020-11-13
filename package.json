@@ -35,6 +35,7 @@
     "uglify-save-license": "^0.4.1"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "<%= registry.publish %>"
   }
 }
