@@ -17,6 +17,7 @@ LICENSE.txt
 Rakefile
 express.js
 .vscode
+.release-it.json
 
 
 # vscode localhistory
